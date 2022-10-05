@@ -1,4 +1,4 @@
-# nike_shop_flutter
+# Flutter calculator
 
 A new Flutter project.
 
